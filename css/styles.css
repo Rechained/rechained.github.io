@@ -23,13 +23,14 @@ div#wrapper {
 
 img.logo {
   max-width: 300px;
-  margin: 80px auto;
+  margin: 80px auto 50px auto;
 }
 
 div#description h1 {
   font-weight: 100;
   text-align: center;
   font-size: 1.6em;
+  margin-bottom: 50px;
 }
 
 div#description h2 {
@@ -40,6 +41,10 @@ div#description h2 {
 
 div#description {
   text-align: left;
+}
+
+p {
+  line-height: 150%;
 }
 
 div#footer {
