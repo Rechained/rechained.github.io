@@ -1,0 +1,51 @@
+#particle {
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0;
+  z-index:0;
+}
+
+body {
+  color: white;
+  background: #1D4592;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+div#wrapper {
+  max-width: 480px;
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+}
+
+img.logo {
+  max-width: 300px;
+  margin: 80px auto;
+}
+
+div#description h1 {
+  font-weight: 100;
+  text-align: center;
+  font-size: 1.6em;
+}
+
+div#description h2 {
+  font-weight: 100;
+  text-align: center;
+  font-size: 1.4em;
+}
+
+div#description {
+  text-align: left;
+}
+
+div#footer {
+  margin: 80px 0 0 0;
+}
+
+a {
+  color: white;
+}
